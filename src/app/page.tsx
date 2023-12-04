@@ -1,4 +1,4 @@
-import HomePage from '@/app/pages/home/home'
+import HomePage from '@/app/home/home'
 import { authOptions } from "./api/auth/[...nextauth]/route";
 import { getServerSession } from "next-auth";
 
